@@ -1,4 +1,6 @@
-# Pagina de Login
+<div style='text-align: center;'> 
+  <h1>Pagina de Login</h1> 
+<div>
  Está é uma página de login responsiva.
  
  <div>
@@ -8,9 +10,14 @@
 
 <div>
 
-## Linguagens Usadas
+## Ferramentas utilizadas
 
 <ul>
- <li>Ola</li>
+ <li> 
+   <img align="center" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> Usado na parte do conteúdo do projeto com <strong>inputs, formulario e o metodo POST.</strong> Também para importar o svg da imagem.
+ </li>
+ <li> 
+  <img align="center" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> Usado na maior parte do projeto, com ferramentas de <strong>FlexBox para alinhamentos dos itens e para deixar a página flexivel.</strong>
+ </li>
 </ul>
 </div>
