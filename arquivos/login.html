@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <link rel="stylesheet" href="estilos/style.css">
+    <link rel="stylesheet" href="estilos/media-queries.css">
+    <title>Login-Page</title>
+</head>
+<body>
+    <section id="conteiner">
+        <div id="left-login">
+            <div class="titulo">
+                <h1>Seja bem-vindo ao nosso site!</h1>
+                <h2>Faça o login para usar nossos serviços.</h2>
+            </div>
+            <form method="post" id="formConteiner" f>
+                <label for="Inome">
+                    i class="material-symbols-outlined">Person</i><input type="text" name="txtnome" id="Inome" class="InfBox" placeholder="Seu nome" required>
+                </label>
+                <label for="Iemail">
+                    <i class="material-symbols-outlined">Mail</i><input type="email" name="email" id="Iemail" class="InfBox" placeholder="Seu email" required>
+                </label>
+                <label for="Isenha">
+                    <i class="material-symbols-outlined">Lock</i>
+                    <input type="password" name="senha" id="Isenha" class="InfBox" placeholder="Sua senha" required minlength="8"></label>
+
+                <div id="interaction-bottom">
+                    <input type="submit" value="ENTRAR" class="IntBottom">
+                    <input type="button" value="Esqueci a Senha" class="IntBottom">
+                </div>
+            </form>
+
+            <div id="creditos">
+                <p>Projeto desenvolvido por <a href="https://www.instagram.com/_willian67/" target="_blank">Willian Oliveira</a></p>
+            </div>
+        </div>
+        <div id="right-login">
+            <img src="mundoTec.svg" alt="" id="rightImg">
+        </div>
+    </section>
+</body>
+</html>
