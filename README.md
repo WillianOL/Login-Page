@@ -30,7 +30,7 @@
   <p> Basta copiar o link do github e acessar! </p>
   <ul>
     <li>
-      https://willianol.github.io/Login-Page/arquivos/login.html
+      <a href="https://willianol.github.io/Login-Page/arquivos/login.html" target="_blank"> Acessar Projeto.</a>
     </li>
   </ul>
 </div>
