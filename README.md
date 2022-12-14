@@ -24,13 +24,12 @@
  </li>
 </ul>
 
-  ## Como acessar
+  ## Acessar
 
 <div>
-  <p> Basta copiar o link do github e acessar! </p>
   <ul>
     <li>
-      <a href="https://willianol.github.io/Login-Page/arquivos/login.html" target="_blank"> Acessar Projeto.</a>
+      <a href="https://willianol.github.io/Login-Page/arquivos/login.html" target="_blank"> Projeto Landing Page</a>
     </li>
   </ul>
 </div>
