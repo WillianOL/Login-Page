@@ -29,7 +29,7 @@
 <div>
   <ul>
     <li>
-      <a href="https://willianol.github.io/Login-Page/arquivos/login.html" target="_blank"> Projeto Landing Page</a>
+      <a href="https://willianol.github.io/Login-Page/arquivos/login.html" target="_blank"> Projeto Login Page</a>
     </li>
   </ul>
 </div>
